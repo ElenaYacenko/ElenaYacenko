@@ -50,8 +50,6 @@ public class QAEngineer {
 ---
 ## 🚀 Главный проект (Диплом)
 
-## 🚀 Главный проект (Диплом)
-
 <div align="center">
   <a href="https://github.com/ElenaYacenko/backspark-lk-automation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaYacenko&repo=backspark-lk-automation&theme=tokyonight&hide_border=false&border_color=2E9EF7&border_radius=10&description=API+%2B+UI+%2B+Mobile+testing&v=3" alt="backspark-lk-automation" />
