@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Привет, я Елена Яценко
+# 👋 Привет, я Елена
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Middle+QA+Engineer;Java+Automation+Engineer;API+%2B+UI+%2B+Mobile+Testing" alt="Typing SVG" />
@@ -29,12 +29,6 @@ public class QAEngineer {
     }
 }
 ```
-
-### Шаг 2. Технологический стек
-
-Теперь добавьте **следующую часть**. Вставьте этот код сразу **после** горизонтальной линии (`---`), которая стоит перед заголовком «Технологический стек»:
-
-```markdown
 ## 🛠 Технологический стек
 
 <div align="center">
