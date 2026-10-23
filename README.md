@@ -52,7 +52,7 @@ public class QAEngineer {
 
 <div align="center">
   <a href="https://github.com/ElenaYacenko/backspark-lk-automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaYacenko&repo=backspark-lk-automation&theme=tokyonight&hide_border=false&border_color=2E9EF7&border_radius=10" alt="backspark-lk-automation" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaYacenko&repo=backspark-lk-automation&description=Дипломный+проект%3A+Автоматизация+тестирования+(API+%2B+UI+%2B+Mobile)&theme=tokyonight&hide_border=false&border_color=2E9EF7&border_radius=10" alt="backspark-lk-automation" />
   </a>
 </div>
 
