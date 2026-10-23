@@ -56,15 +56,6 @@ public class QAEngineer {
   </a>
 </div>
 
-<br/>
-
-> 💡 **`backspark-lk-automation`** — комплексный фреймворк для автоматизации тестирования функции передачи показаний в личном кабинете.
-> 
-> - 🔌 **API:** RestAssured, проверка контрактов и бизнес-логики.
-> - 🌐 **UI:** Selenide, компонентный подход (Page Object).
-> - 📱 **Mobile:** Appium, UiAutomator2 (эмулятор и BrowserStack).
-> - ⚙️ **CI/CD:** Jenkins, Allure TestOps, Jira, Telegram-бот.
-
 ---
 
 <br/>
