@@ -52,15 +52,16 @@ public class QAEngineer {
 
 <div align="center">
   <a href="https://github.com/ElenaYacenko/backspark-lk-automation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaYacenko&repo=backspark-lk-automation&theme=swift&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElenaYacenko&repo=backspark-lk-automation&theme=tokyonight&hide_border=false&border_color=2E9EF7&border_radius=10" alt="backspark-lk-automation" />
   </a>
 </div>
 
 <br/>
 
-> **`backspark-lk-automation`** — комплексный фреймворк для тестирования функции передачи показаний в ЛК.
+> 💡 **`backspark-lk-automation`** — комплексный фреймворк для автоматизации тестирования функции передачи показаний в личном кабинете.
+> 
 > - 🔌 **API:** RestAssured, проверка контрактов и бизнес-логики.
-> - 🌐 **UI:** Selenide, компонентный подход.
+> - 🌐 **UI:** Selenide, компонентный подход (Page Object).
 > - 📱 **Mobile:** Appium, UiAutomator2 (эмулятор и BrowserStack).
 > - ⚙️ **CI/CD:** Jenkins, Allure TestOps, Jira, Telegram-бот.
 
