@@ -67,8 +67,6 @@ public class QAEngineer {
 > - 📱 **Mobile:** Appium, UiAutomator2 (эмулятор и BrowserStack).
 > - ⚙️ **CI/CD:** Jenkins, Allure TestOps, Jira, Telegram-бот.
 
----
-
 ## 📈 Моя активность
 
 <div align="center">
